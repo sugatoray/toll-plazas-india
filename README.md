@@ -1,5 +1,7 @@
 # toll-plazas-india
 
+![Update data](https://github.com/sugatoray/toll-plazas-india/workflows/Update%20data/badge.svg)
+
 Toll Plaza data from the National Highways Authority of India. This is scraped from the [Toll Information System](http://tis.nhai.gov.in).
 
 [Here's a map](https://api.mapbox.com/styles/v1/geohacker/cjr0mtbwf0q8e2sqr5ilfteqd.html?fresh=true&title=true&access_token=pk.eyJ1IjoiZ2VvaGFja2VyIiwiYSI6ImFIN0hENW8ifQ.GGpH9gLyEg0PZf3NPQ7Vrg#4.58/20.76/83.45)
